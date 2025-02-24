@@ -1,6 +1,6 @@
 ## Oii! Sou Marcos Augusto 👋
 
-- 🔭 Atualmente trabalho com plantas arquitetônicas ...
-- 🌱 Estudando JavaScript
-- 🧠 Experiências com frameworks como: Angular, NextJs e Tailwind
+- 🔭 Atualmente sou motoboy...
+- 🌱 Estudando Python e suas tecnologias
 - 🎓 Cursando Sistemas de Informação no ENIAC
+- 🧠 Todo dia aprendendo algo novo
