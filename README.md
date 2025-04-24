@@ -1,76 +1,31 @@
-import { useEffect, useState } from "react";
-import { motion } from "framer-motion";
+# 👋 Olá, sou o Marcos Augusto
 
-export default function SobreMim() {
-  const frases = [
-    "Motoboy por necessidade 🚴",
-    "Desenvolvedor por vocação 💻",
-    "Futuro dev na FURIA 🔥"
-  ];
+Sou **Marcos Augusto Silva de Antonio**, motoboy e estudante de **Sistemas de Informação** no Centro Universitário Eniac. Tenho 21 anos, venho de uma família humilde e estou em transição de carreira, buscando oportunidades no mundo da tecnologia.  
 
-  const [fraseIndex, setFraseIndex] = useState(0);
+Apaixonado por programação, estudo de forma autodidata com foco em:
 
-  useEffect(() => {
-    const intervalo = setInterval(() => {
-      setFraseIndex((prev) => (prev + 1) % frases.length);
-    }, 3000);
-    return () => clearInterval(intervalo);
-  }, []);
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-  return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 to-black text-white p-6 flex flex-col items-center justify-center gap-6">
-      <motion.img
-        src="https://media.giphy.com/media/XUFPGrX5Zis6Y/giphy.gif"
-        alt="Motoboy to Dev"
-        className="rounded-2xl w-80 shadow-lg"
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 1 }}
-      />
+💡 Já finalizei o curso de Introdução à Ciência da Computação com Python da USP, via Coursera.  
+🔥 Acompanho o cenário de eSports, especialmente os jogos da **FURIA** no League of Legends (sou bronziocre com orgulho 😅).  
+🏐 Também jogo vôlei como líbero nas horas vagas.  
 
-      <motion.h1
-        className="text-4xl font-bold text-center"
-        initial={{ y: -20, opacity: 0 }}
-        animate={{ y: 0, opacity: 1 }}
-        transition={{ duration: 1 }}
-      >
-        Olá, sou Marcos 👋
-      </motion.h1>
+📌 Quero transformar vidas com tecnologia, começando pela minha e da minha família.
 
-      <motion.p
-        className="text-xl text-center max-w-xl"
-        key={fraseIndex}
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 0.6 }}
-      >
-        {frases[fraseIndex]}
-      </motion.p>
+---
 
-      <div className="grid gap-4 mt-6 max-w-2xl text-center">
-        <p>
-          Estudo <strong>SI no Eniac</strong>, aprendendo tecnologias como <strong>Python</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Next.js</strong> e <strong>Node.js</strong> de forma autodidata.
-        </p>
-        <p>
-          Fã de <strong>eSports</strong> e dos vídeos do <strong>bronziocre</strong>. Acompanho <strong>LoL</strong> e admiro a <strong>FURIA</strong> como referência em tecnologia e impacto no cenário gamer.
-        </p>
-        <p>
-          Fora do teclado? Sou líbero no vôlei amador 🏐 e apaixonado por aprender e crescer 💪
-        </p>
-      </div>
+## 🌐 Onde me encontrar
 
-      <motion.img
-        src="https://media.giphy.com/media/iOeu9XEUCosKUN0b4r/giphy.gif"
-        alt="LOL gif"
-        className="w-64 rounded-xl shadow"
-        initial={{ scale: 0 }}
-        animate={{ scale: 1 }}
-        transition={{ duration: 1 }}
-      />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosAugustoo)
 
-      <footer className="mt-10 text-sm text-gray-400">
-        "Você não precisa ser grande para começar, mas precisa começar para ser grande."
-      </footer>
-    </div>
-  );
-}
+---
+
+## 🔗 Projeto em destaque
+
+👉 Confira o projeto do **Chatbot da FURIA**:  
+[https://desafio-furia-exp-conversacional.vercel.app](https://desafio-furia-exp-conversacional.vercel.app)
