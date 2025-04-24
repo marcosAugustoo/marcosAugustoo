@@ -10,7 +10,8 @@ Apaixonado por programação, estudo de forma autodidata com foco em:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-💡 Já finalizei o curso de Introdução à Ciência da Computação com Python da USP, via Coursera. 
+💡 Já finalizei o curso de Introdução à Ciência da Computação com Python da USP, via Coursera.
+
 🏐 Também jogo vôlei como líbero nas horas vagas.  
 
 📌 Quero transformar vidas com tecnologia, começando pela minha e da minha família.
