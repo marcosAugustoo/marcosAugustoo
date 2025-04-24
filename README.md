@@ -10,8 +10,7 @@ Apaixonado por programação, estudo de forma autodidata com foco em:
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-💡 Já finalizei o curso de Introdução à Ciência da Computação com Python da USP, via Coursera.  
-🔥 Acompanho o cenário de eSports, especialmente os jogos da **FURIA** no League of Legends (sou bronziocre com orgulho 😅).  
+💡 Já finalizei o curso de Introdução à Ciência da Computação com Python da USP, via Coursera. 
 🏐 Também jogo vôlei como líbero nas horas vagas.  
 
 📌 Quero transformar vidas com tecnologia, começando pela minha e da minha família.
@@ -20,7 +19,7 @@ Apaixonado por programação, estudo de forma autodidata com foco em:
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/marcos-augusto-dev/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosAugustoo)
 
 ---
