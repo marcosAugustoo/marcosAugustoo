@@ -15,6 +15,7 @@ Apaixonado por programação, estudo de forma autodidata com foco em:
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 💡 Já finalizei o curso de Introdução à Ciência da Computação com Python da USP, via Coursera.
+
 📌 Quero transformar vidas com tecnologia, começando pela minha e da minha família.
 
 ---
