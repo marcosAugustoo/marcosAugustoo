@@ -1,33 +1,79 @@
-# 👋 Olá, sou o Marcos Augusto
+<!-- README.md -->
 
-Sou **Marcos Augusto Silva de Antonio**, motoboy e estudante de **Sistemas de Informação** no Centro Universitário Eniac. Tenho 21 anos, venho de uma família humilde e estou em transição de carreira, buscando oportunidades no mundo da tecnologia.  
+<h1 align="center">
+  👋 Olá, eu sou 
+  <span style="color:#4F46E5; transition: all 0.3s;" onmouseover="this.style.color='#22D3EE'" onmouseout="this.style.color='#4F46E5'">
+    Marcos Augusto
+  </span>
+</h1>
 
-Apaixonado por programação, estudo de forma autodidata com foco em:
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=json&logoColor=white)](https://restfulapi.net/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-💡 Já finalizei o curso de Introdução à Ciência da Computação com Python da USP, via Coursera.
-
-📌 Quero transformar vidas com tecnologia, começando pela minha e da minha família.
+<p align="center">
+  🏍️ Motoboy em transição de carreira | 🎓 Estudante de Sistemas de Informação no Centro Universitário Eniac  
+</p>
+<p align="center">
+  💻 Apaixonado por tecnologia, estudo programação de forma autodidata e busco minha primeira oportunidade como desenvolvedor Python.
+</p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🚀 Tecnologias que estudo e utilizo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-augusto-dev/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosAugustoo)
+<div align="center">
+
+  <br/>
+
+  <!-- Primeira linha -->
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+
+  <br/>
+
+  <!-- Segunda linha -->
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  <a href="https://restfulapi.net/">
+    <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=json&logoColor=white" alt="REST API"/>
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+
+  <br/>
+
+</div>
 
 ---
 
-## 🔗 Projeto em destaque
+## 🧠 Projetos em desenvolvimento
 
-👉 Confira o projeto do **Chatbot da FURIA**:  
-[https://desafio-furia-exp-conversacional.vercel.app](https://desafio-furia-exp-conversacional.vercel.app)
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| Plataforma Anti-Desperdício | Conecta comércios com excedentes de alimentos a pessoas em situação de vulnerabilidade. | Python, Flask/FastAPI, SQL |
+| Chatbot da FURIA | Chatbot para fãs do time de CS:GO da FURIA com respostas automatizadas. | Python, FastAPI |
+| Gerador de Orçamentos | Sistema para gerar orçamentos com CNPJ, cliente e validade de 4 semanas. | Python, SQLite |
+
+---
+
+## 📫 Contato
+
+- ✉️ **Email:** marcosdeantonio2020@gmail.com  
+- 💼 **[LinkedIn](https://linkedin.com/in/marcos-augusto-dev)**  
+- 💻 **[GitHub](https://github.com/marcosAugustoo)**
+
+---
+
+💡 *Motivado, disciplinado e pronto para crescer como desenvolvedor. Buscando minha primeira oportunidade para transformar minha realidade e impactar vidas com a tecnologia!*
