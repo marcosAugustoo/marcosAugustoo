@@ -13,13 +13,8 @@ Apaixonado por programação, estudo de forma autodidata com foco em:
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
-
 
 💡 Já finalizei o curso de Introdução à Ciência da Computação com Python da USP, via Coursera.
-
-🏐 Também jogo vôlei como líbero nas horas vagas.  
-
 📌 Quero transformar vidas com tecnologia, começando pela minha e da minha família.
 
 ---
