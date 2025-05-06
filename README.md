@@ -3,6 +3,7 @@
 Sou **Marcos Augusto Silva de Antonio**, motoboy e estudante de **Sistemas de Informação** no Centro Universitário Eniac. Tenho 21 anos, venho de uma família humilde e estou em transição de carreira, buscando oportunidades no mundo da tecnologia.  
 
 Apaixonado por programação, estudo de forma autodidata com foco em:
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
