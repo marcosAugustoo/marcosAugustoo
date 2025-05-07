@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gatinho codando" width="250"/>
+</p>
+
 <h1 align="center">Prazer, sou Marcos Augusto!</h1>
 
 <p align="center">
@@ -59,9 +63,9 @@
 
 ## Contato
 
-- **Email:** seuemail@email.com  
-- **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
-- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
+- 📧 **Email:** marcosdeantonio2020@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/marcos-augusto-dev](https://www.linkedin.com/in/marcos-augusto-dev/)  
+- 🧑‍💻 **GitHub:** [github.com/marcosAugustoo](https://github.com/marcosAugustoo)
 
 ---
 
