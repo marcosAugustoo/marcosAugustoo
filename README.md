@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gatinho codando" width="250"/>
-</p>
-
-<h1 align="center">Prazer, sou Marcos Augusto!</h1>
+<h1 align="center">Olá! Sou Marcos Augusto!</h1>
 
 <p align="center">
   Motoboy em transição de carreira | Estudante de Sistemas de Informação no Centro Universitário Eniac  
