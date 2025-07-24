@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Sou Marcos Augusto!</h1>
 
 <p align="center">
-  Motoboy em transição de carreira | Estudante de Sistemas de Informação no Centro Universitário Eniac  
+  Me dê uma chance
 </p>
 <p align="center">
   Apaixonado por tecnologia, estudo programação de forma autodidata e busco minha primeira oportunidade como desenvolvedor Python.
