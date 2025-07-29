@@ -53,7 +53,7 @@
 |-----------------------|---------------------------------------------------------------------------|----------------------|
 | Plataforma Anti-Desperdício | Conecta comércios com excedentes de alimentos a pessoas em situação de vulnerabilidade. | Python, Flask/FastAPI, SQL |
 | Chatbot da FURIA      | Chatbot para fãs do time de CS:GO da FURIA com respostas automatizadas.   | Python, FastAPI      |
-| Gerador de Orçamentos | Sistema para gerar orçamentos com CNPJ, cliente e validade de 4 semanas. | Python, SQLite       |
+| API RESTful Flask | API RESTful em Flask para CRUD básico. Permite criar, ler, atualizar e deletar registros. Utiliza JSON nas requisições e respostas e SQLAlchemy para manipulação do banco de dados. | Python, Flask, SQLAlchemy       |
 
 ---
 
