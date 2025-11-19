@@ -1,68 +1,79 @@
-<h1 align="center">Olá! Sou Marcos Augusto!</h1>
+<h1 align="center">Olá, sou Marcos Augusto! 👽</h1>
 
-<p align="center">
-  Me dê uma chance
-</p>
-<p align="center">
-  Apaixonado por tecnologia, estudo programação de forma autodidata e busco minha primeira oportunidade como desenvolvedor Python.
-</p>
+<h2 align="center">Procurando por Estágio / Júnior</h2>
 
----
-
-## Tecnologias que estudo e utilizo
+<br>
 
 <div align="center">
+  <h2>🚀 Tecnologias que estudo e utilizo</h2>
 
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/">
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-  <br/>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </a>
-  <a href="https://restfulapi.net/">
-    <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=json&logoColor=white" />
-  </a>
-  <a href="https://www.sqlite.org/index.html">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <br/>
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <a href="https://www.python.org" target="_blank">
+      <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+      <img height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+      <img height="40" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+      <img height="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+
+  </div>
 </div>
 
----
+<br><br>
 
-## Projetos em desenvolvimento
+<div align="center">
+  <h2>📌 Sobre mim</h2>
+  <p>
+    Apaixonado por tecnologia, estudo desenvolvimento full stack e busco minha primeira oportunidade como estagiário ou desenvolvedor júnior.  
+    Trabalho com projetos que envolvem <strong>React</strong>, <strong>FastAPI</strong>, <strong>MongoDB</strong> e <strong>Python</strong>.
+  </p>
+</div>
 
-| Projeto               | Descrição                                                                 | Tecnologias          |
-|-----------------------|---------------------------------------------------------------------------|----------------------|
-| Plataforma Anti-Desperdício | Conecta comércios com excedentes de alimentos a pessoas em situação de vulnerabilidade. | Python, Flask/FastAPI, SQL |
-| Chatbot da FURIA      | Chatbot para fãs do time de CS:GO da FURIA com respostas automatizadas.   | Python, FastAPI      |
-| API RESTful Flask | API RESTful em Flask para CRUD básico. Permite criar, ler, atualizar e deletar registros. Utiliza JSON nas requisições e respostas e SQLAlchemy para manipulação do banco de dados. | Python, Flask, SQLAlchemy       |
+<br><br>
 
----
+<div align="center">
+  <h2>📂 Projetos em destaque</h2>
 
-## Contato
+  <div>
+    <p>👉 <strong>CRUD de Jogadores</strong> — React + FastAPI + MongoDB</p>
+    <p>👉 <strong>Reconhecimento de Dígitos (IA)</strong> — TensorFlow + NumPy</p>
+    <p>👉 <strong>Sistemas FullStack</strong> — Consumo de APIs, Axios, rotas organizadas</p>
+  </div>
+</div>
 
-- 📧 **Email:** marcosdeantonio2020@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/marcos-augusto-dev](https://www.linkedin.com/in/marcos-augusto-dev/)  
-- 🧑‍💻 **GitHub:** [github.com/marcosAugustoo](https://github.com/marcosAugustoo)
+<br><br>
 
----
+<div align="center">
+  <h2>📫 Contato</h2>
 
-Motivado, disciplinado e pronto para crescer como desenvolvedor. Buscando minha primeira oportunidade para transformar minha realidade e impactar vidas com a tecnologia!
+  <a href="mailto:seuemail@gmail.com">
+    <img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/seuusuario" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
+  <h3>💬 Obrigado por visitar meu perfil!</h3>
+</div>
