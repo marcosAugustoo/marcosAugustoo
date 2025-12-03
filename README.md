@@ -49,7 +49,6 @@
 
   <div>
     <p>👉 <strong>CRUD de Jogadores</strong> — React + FastAPI + MongoDB</p>
-    <p>👉 <strong>Reconhecimento de Dígitos (IA)</strong> — TensorFlow + NumPy</p>
     <p>👉 <strong>Sistemas FullStack</strong> — Consumo de APIs, Axios, rotas organizadas</p>
   </div>
 </div>
